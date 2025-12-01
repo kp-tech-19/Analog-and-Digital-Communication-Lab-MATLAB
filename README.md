@@ -1,7 +1,6 @@
-# Analog-and-Digital-Communication-Lab
+# Analog-and-Digital-Communication-Lab-MATLAB
 
-This repository contains MATLAB implementations and simulations for Analog and Digital Communication techniques.  
-Each experiment includes MATLAB scripts, output plots, and interpretation of results.
+This repository contains MATLAB implementations and simulations for Analog and Digital Communication techniques.Each experiment includes MATLAB scripts, output plots, and interpretation of results.
 
 ## Experiments
 
