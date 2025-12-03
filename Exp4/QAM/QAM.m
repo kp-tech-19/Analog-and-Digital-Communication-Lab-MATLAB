@@ -2,7 +2,7 @@ clc; clear; close all;
 % 1 Parameters 
 Tb = 1;fs = 100;fc = 5;t = 0:1/fs:Tb-1/fs;      
 % 2 Generate random bits
-b = randi([0 1], 1, 32);  
+b = randi([0 1], 1, 32);N = length(b);  
 % 3 Group bits into 4 for 16-QAM
 b4 = reshape(b, 4, []).';     
 % 4 Mapping function: 00→-3 , 01→-1 , 11→+3 , 10→+1
